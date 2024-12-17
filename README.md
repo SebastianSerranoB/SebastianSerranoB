@@ -17,21 +17,11 @@ Currently, I'm focusing on:
 - **Microservices** with Spring Cloud.
 - **Testing**: Improving my automated testing skills (JUnit, Mockito, E2E).
   
-## 📚 My Learning Path
-
-I'm committed to **growing as a professional developer** and focusing on building **high-quality software solutions** with an emphasis on best practices, maintainability, and scalability. I'm eager to learn new technologies and stay on top of trends in the software development field.
-
 ## 🌍 Languages
 
 I have a solid foundation in English which complements my academic background and enables me to collaborate and learn from international projects.
 
-## 🌱 My Aspiration
 
-My goal is to turn my knowledge into highly specialized skills, particularly focusing on **security** and **microservices**. I aim to design scalable, secure, and efficient systems that solve real-world problems in software development.
-
-I'm always open to new challenges and opportunities to learn! 👨‍💻
-
----
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sebastian-serrano-7978b2227/)
 
