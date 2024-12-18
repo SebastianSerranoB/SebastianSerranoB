@@ -1,4 +1,4 @@
-# Hi there! I'm [Sebastian] 👋
+# Hi there! I'm Sebastian 👋
 
 I'm a **backend developer** with a passion for programming. I'm currently studying **Computer Programming** at **UTN-FRA** since 2022, although I've been learning programming since 2021. I specialize in **RESTful API development** with **Java** and **Spring Boot**
 
